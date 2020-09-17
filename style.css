@@ -1,0 +1,17 @@
+main {
+  max-width: 1024px;
+  font-family: Arial, Futura, sans-serif;
+  text-align: center;
+}
+
+ul {
+  text-align: left;
+  max-width: 400px;
+  margin-top: 0px;
+  margin-bottom: 0px;	
+  display: inline-block;
+}
+
+li {
+  text-align: left;
+}
